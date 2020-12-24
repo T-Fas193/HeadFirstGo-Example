@@ -16,3 +16,6 @@
 
 # vscode file
 *.vscode
+
+# idea file
+*.idea
